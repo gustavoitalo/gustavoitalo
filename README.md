@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou um aspirante a programador com interesse em backend, desenvolvimento de jogos e ferramentas como o Neovim. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias, com foco em soluções criativas e eficientes. Tenho paixão por resolver desafios e criar jogos e sistemas.</p>
+<p align="left">Sou um aspirante a programador com interesse em backend, desenvolvimento de jogos e sistemas operacionais baseados em GNU/Linux. Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias, com foco em soluções criativas e eficientes. Tenho paixão por resolver desafios e criar jogos e sistemas.</p>
 
 ###
 
